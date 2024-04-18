@@ -1,6 +1,6 @@
 'use client';
 import { useState } from 'react';
-import { FlowBite } from '@/app/utils'
+import { FlowBite } from '@/utils'
 
 interface ButtonProps {
  OnClick: any;
